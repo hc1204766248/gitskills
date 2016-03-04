@@ -6,5 +6,6 @@ int func1(void)
 
 int func2(void)
 {
+	modified_by_branch_func2();
 	return 0;
 }
