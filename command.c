@@ -1,5 +1,6 @@
 int func1(void)
 {
+	modified_by_master();
 	return 0;
 }
 
